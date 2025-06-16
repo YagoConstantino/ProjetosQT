@@ -1,0 +1,13 @@
+# ninja log v6
+8	2341	7717365854001137	AgendaV1_autogen/timestamp	3e8c99788a7b2ce5
+8	2341	7717365854001137	AgendaV1_autogen/mocs_compilation.cpp	3e8c99788a7b2ce5
+8	2341	7717365854001137	C:/Users/yagoa/Desktop/QT/Projetos/AgendaV1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/AgendaV1_autogen/timestamp	3e8c99788a7b2ce5
+8	2341	7717365854001137	C:/Users/yagoa/Desktop/QT/Projetos/AgendaV1/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/AgendaV1_autogen/mocs_compilation.cpp	3e8c99788a7b2ce5
+2375	7553	7717365856277894	CMakeFiles/AgendaV1.dir/principal.cpp.obj	ae159b1881f8d2ca
+2387	7726	7717365856397928	CMakeFiles/AgendaV1.dir/novocontato.cpp.obj	4f354f6c01fa15db
+2408	7834	7717365856607963	CMakeFiles/AgendaV1.dir/editarcontato.cpp.obj	fc4219401160cbc8
+2354	8036	7717365856068031	CMakeFiles/AgendaV1.dir/main.cpp.obj	8121e423e439ba57
+2348	8235	7717365856007871	CMakeFiles/AgendaV1.dir/AgendaV1_autogen/mocs_compilation.cpp.obj	ef628e0175145413
+2361	8469	7717365856137869	CMakeFiles/AgendaV1.dir/janelalogin.cpp.obj	740ba3bb00b78340
+2400	10840	7717365856527971	CMakeFiles/AgendaV1.dir/pesquisacontatos.cpp.obj	80e811635c6aa68
+10841	11057	7717365940944643	AgendaV1.exe	d7374a35f7b84a46

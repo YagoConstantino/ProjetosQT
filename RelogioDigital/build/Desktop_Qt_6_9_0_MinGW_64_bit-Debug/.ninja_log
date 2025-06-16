@@ -1,0 +1,21 @@
+# ninja log v6
+8	944	7677634996823926	Qtimer_autogen/timestamp	610626fa1295ad7
+8	944	7677634996823926	Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+8	944	7677634996823926	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/timestamp	610626fa1295ad7
+8	944	7677634996823926	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+968	4185	7677634998160570	CMakeFiles/Qtimer.dir/Qtimer_autogen/mocs_compilation.cpp.obj	f941bd7e14b56f73
+973	4189	7677634998210511	CMakeFiles/Qtimer.dir/main.cpp.obj	db76310de95334b9
+76	333	7677635123953171	Qtimer_autogen/timestamp	610626fa1295ad7
+76	333	7677635123953171	Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+76	333	7677635123953171	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/timestamp	610626fa1295ad7
+76	333	7677635123953171	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+43	249	7677635231321124	Qtimer_autogen/timestamp	610626fa1295ad7
+43	249	7677635231321124	Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+43	249	7677635231321124	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/timestamp	610626fa1295ad7
+43	249	7677635231321124	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+74	367	7677635360569034	Qtimer_autogen/timestamp	610626fa1295ad7
+74	367	7677635360569034	Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+74	367	7677635360569034	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/timestamp	610626fa1295ad7
+74	367	7677635360569034	C:/Users/yagoa/Desktop/QT/Qtimer/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/Qtimer_autogen/mocs_compilation.cpp	610626fa1295ad7
+368	3782	7677635363509435	CMakeFiles/Qtimer.dir/mainwindow.cpp.obj	474f84177cfbe28d
+3783	4117	7677635397653601	Qtimer.exe	f3ba8f63c83a0ff1
