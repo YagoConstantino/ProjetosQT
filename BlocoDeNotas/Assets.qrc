@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Icones">
+        <file alias="abrir">Icones/aberto.png</file>
+        <file alias="colar">Icones/colar-area-de-transferencia.png</file>
+        <file alias="recortar">Icones/corte.png</file>
+        <file alias="desfazer">Icones/desfazer.png</file>
+        <file alias="fechar">Icones/fechar-simbolo-de-botao-circular.png</file>
+        <file alias="novoArquivo">Icones/novo-arquivo.png</file>
+        <file alias="salvar">Icones/opcao-de-salvar-arquivo.png</file>
+        <file alias="copiar">Icones/pasta-aberta.png</file>
+        <file alias="refazer">Icones/refazer.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Icones/salve-.png</file>
+    </qresource>
+</RCC>
